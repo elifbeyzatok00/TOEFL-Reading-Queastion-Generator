@@ -1,4 +1,4 @@
-# Hackathon24-TOEFL-Reading-Queastion-Generator
+# TOEFL-Reading-Queastion-Generator
 
 ## Overview
 
