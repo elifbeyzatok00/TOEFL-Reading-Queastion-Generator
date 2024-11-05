@@ -1,4 +1,4 @@
-# TOEFL-Reading-Queastion-Generator
+# TOEFL-Reading-Question-Generator
 
 ## Overview
 
