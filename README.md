@@ -69,4 +69,8 @@ An example workflow is provided in the notebook, including sample prompts and ou
 
 ## License
 
-This project is licensed under the MIT License.
+This project is proprietary and not licensed for use by others. All rights are reserved by the author.
+
+## Contact
+
+For any questions or feedback, please contact us at elifbeyzatok@gmail.com.
