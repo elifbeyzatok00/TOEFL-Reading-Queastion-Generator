@@ -1,4 +1,4 @@
-# TOEFL-Reading-Question-Generator
+# TOEFL Reading Question Generator
 
 ## Overview
 
@@ -19,14 +19,21 @@ This project is designed to generate TOEFL Reading questions, answers, and expla
 
    ```sh
    pip install -q -U google-generativeai
+   pip install -r requirements.txt
    ```
 
 2. Configure the API key for Google Generative AI:
+
    ```python
    import google.generativeai as genai
    from google.colab import userdata
    GEMINI_API_KEY = userdata.get("GEMINI_API_KEY")
    genai.configure(api_key=GEMINI_API_KEY)
+   ```
+
+3. Run Gradio UI:
+   ```bash
+   python toefl_reading_gr.py
    ```
 
 ## Usage
